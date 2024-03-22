@@ -19,7 +19,7 @@ class rumah {
 
 void main() {
   rumah rumahCheck = rumah();
-  // rumahCheck.nama = "laila";
+  // rumahCheck.nama = "edo";
   // rumahCheck.alamat = "jepara";
   // rumahCheck.jumlahKamar = 2;
 
